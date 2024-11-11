@@ -1,6 +1,4 @@
 #支持私库
-okapi0129/virtualwife-chatbot:latest
-okapi0129/virtualwife-chatvrm:latest
-okapi0129/virtualwife-gateway:latest
+gitlab/gitlab-ce:14.9.1-ce.0
 #支持指定架构
 --platform=linux/amd64
