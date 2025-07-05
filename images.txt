@@ -1,5 +1,5 @@
 #支持私库
-mineru-sglang:latest
+lmsysorg/sglang:v0.4.7-cu124
 
 #支持指定架构1
 --platform=linux/amd64
