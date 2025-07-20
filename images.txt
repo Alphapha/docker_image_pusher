@@ -1,5 +1,4 @@
 #支持私库
-lmsysorg/sglang:v0.4.8.post1-cu126
-
+datawire/ambassador:1.14.2
 #支持指定架构1
 --platform=linux/amd64
