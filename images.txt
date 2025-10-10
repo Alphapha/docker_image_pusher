@@ -1,5 +1,4 @@
 #支持私库
-tradingagents-cn:latest
 mongo:4.4
 redis:latest
 ghcr.io/joeferner/redis-commander:latest
