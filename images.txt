@@ -1,7 +1,4 @@
 #支持私库
-mongo:4.4
-redis:latest
-ghcr.io/joeferner/redis-commander:latest
-mongo-express:latest
+python:3.10-slim-bookwor
 #支持指定架构
 --platform=linux/amd64
