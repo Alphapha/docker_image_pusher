@@ -4,5 +4,5 @@ mongo:4.4
 redis:latest
 ghcr.io/joeferner/redis-commander:latest
 mongo-express:latest
-#支持指定架构1
+#支持指定架构
 --platform=linux/amd64
