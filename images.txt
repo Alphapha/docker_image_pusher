@@ -1,4 +1,4 @@
 #支持私库
-python:3.10-slim-bookwor
+python:3.10-slim-bookworm
 #支持指定架构
 --platform=linux/amd64
